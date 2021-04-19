@@ -1,0 +1,13 @@
+C:\Users\Miguel\source\repos\TP1_SILVA_M.6to1raB\TP1_SILVA_M.6to1raB\bin\Debug\netcoreapp3.1\Ejercicio1.exe
+C:\Users\Miguel\source\repos\TP1_SILVA_M.6to1raB\TP1_SILVA_M.6to1raB\bin\Debug\netcoreapp3.1\Ejercicio1.deps.json
+C:\Users\Miguel\source\repos\TP1_SILVA_M.6to1raB\TP1_SILVA_M.6to1raB\bin\Debug\netcoreapp3.1\Ejercicio1.runtimeconfig.json
+C:\Users\Miguel\source\repos\TP1_SILVA_M.6to1raB\TP1_SILVA_M.6to1raB\bin\Debug\netcoreapp3.1\Ejercicio1.runtimeconfig.dev.json
+C:\Users\Miguel\source\repos\TP1_SILVA_M.6to1raB\TP1_SILVA_M.6to1raB\bin\Debug\netcoreapp3.1\Ejercicio1.dll
+C:\Users\Miguel\source\repos\TP1_SILVA_M.6to1raB\TP1_SILVA_M.6to1raB\bin\Debug\netcoreapp3.1\Ejercicio1.pdb
+C:\Users\Miguel\source\repos\TP1_SILVA_M.6to1raB\TP1_SILVA_M.6to1raB\obj\Debug\netcoreapp3.1\Ejercicio1.csprojAssemblyReference.cache
+C:\Users\Miguel\source\repos\TP1_SILVA_M.6to1raB\TP1_SILVA_M.6to1raB\obj\Debug\netcoreapp3.1\Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\TP1_SILVA_M.6to1raB\TP1_SILVA_M.6to1raB\obj\Debug\netcoreapp3.1\Ejercicio1.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\TP1_SILVA_M.6to1raB\TP1_SILVA_M.6to1raB\obj\Debug\netcoreapp3.1\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\TP1_SILVA_M.6to1raB\TP1_SILVA_M.6to1raB\obj\Debug\netcoreapp3.1\Ejercicio1.dll
+C:\Users\Miguel\source\repos\TP1_SILVA_M.6to1raB\TP1_SILVA_M.6to1raB\obj\Debug\netcoreapp3.1\Ejercicio1.pdb
+C:\Users\Miguel\source\repos\TP1_SILVA_M.6to1raB\TP1_SILVA_M.6to1raB\obj\Debug\netcoreapp3.1\Ejercicio1.genruntimeconfig.cache
